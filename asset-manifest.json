@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mypage-react-typescript/static/css/main.c5a30726.css",
+    "main.js": "/mypage-react-typescript/static/js/main.bb224351.js",
+    "static/js/787.aeca62f9.chunk.js": "/mypage-react-typescript/static/js/787.aeca62f9.chunk.js",
+    "static/media/perfil.jpg": "/mypage-react-typescript/static/media/perfil.4da869c7135b9be20784.jpg",
+    "static/media/react.svg": "/mypage-react-typescript/static/media/react.d096fffb9ee0efff81ef475d9fb802a8.svg",
+    "static/media/javascript.svg": "/mypage-react-typescript/static/media/javascript.38a290802fd552446e9bd26b703b15ea.svg",
+    "static/media/typescript.svg": "/mypage-react-typescript/static/media/typescript.37608134ca950f8cfff6c9ecb61a8641.svg",
+    "static/media/rest.svg": "/mypage-react-typescript/static/media/rest.7c0a6b96ee4b762ac8c46aec234da7c6.svg",
+    "static/media/linkedin.svg": "/mypage-react-typescript/static/media/linkedin.8a7b04676c6055dfd6a686974c9c4f24.svg",
+    "static/media/github.svg": "/mypage-react-typescript/static/media/github.a52c92b22e3456c5ac7a2483d3b757db.svg",
+    "static/media/python.svg": "/mypage-react-typescript/static/media/python.464a46844d4a72a520d8162b693b5992.svg",
+    "index.html": "/mypage-react-typescript/index.html",
+    "static/media/email.svg": "/mypage-react-typescript/static/media/email.c0a70fa215f68b36da1caf3c0828ef6e.svg",
+    "static/media/html.svg": "/mypage-react-typescript/static/media/html.bb522a77e0fb4dbaca2f1a28d2e9ed1f.svg",
+    "main.c5a30726.css.map": "/mypage-react-typescript/static/css/main.c5a30726.css.map",
+    "main.bb224351.js.map": "/mypage-react-typescript/static/js/main.bb224351.js.map",
+    "787.aeca62f9.chunk.js.map": "/mypage-react-typescript/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5a30726.css",
+    "static/js/main.bb224351.js"
+  ]
+}
