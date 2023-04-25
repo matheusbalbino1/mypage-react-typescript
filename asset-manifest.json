@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/mypage-react-typescript/static/css/main.c5a30726.css",
-    "main.js": "/mypage-react-typescript/static/js/main.bb224351.js",
+    "main.js": "/mypage-react-typescript/static/js/main.bd6bc8b6.js",
     "static/js/787.aeca62f9.chunk.js": "/mypage-react-typescript/static/js/787.aeca62f9.chunk.js",
     "static/media/perfil.jpg": "/mypage-react-typescript/static/media/perfil.4da869c7135b9be20784.jpg",
-    "static/media/react.svg": "/mypage-react-typescript/static/media/react.d096fffb9ee0efff81ef475d9fb802a8.svg",
-    "static/media/javascript.svg": "/mypage-react-typescript/static/media/javascript.38a290802fd552446e9bd26b703b15ea.svg",
-    "static/media/typescript.svg": "/mypage-react-typescript/static/media/typescript.37608134ca950f8cfff6c9ecb61a8641.svg",
-    "static/media/rest.svg": "/mypage-react-typescript/static/media/rest.7c0a6b96ee4b762ac8c46aec234da7c6.svg",
-    "static/media/linkedin.svg": "/mypage-react-typescript/static/media/linkedin.8a7b04676c6055dfd6a686974c9c4f24.svg",
-    "static/media/github.svg": "/mypage-react-typescript/static/media/github.a52c92b22e3456c5ac7a2483d3b757db.svg",
-    "static/media/python.svg": "/mypage-react-typescript/static/media/python.464a46844d4a72a520d8162b693b5992.svg",
+    "static/media/react.svg": "/mypage-react-typescript/static/media/react.57cead48f96b6e2e8b97dd1a6d14bc4d.svg",
+    "static/media/javascript.svg": "/mypage-react-typescript/static/media/javascript.5d37adac3b9527c1de60e7b5573bc05d.svg",
+    "static/media/typescript.svg": "/mypage-react-typescript/static/media/typescript.ad3c503e238e02f2444c7f2e9833e7fc.svg",
+    "static/media/rest.svg": "/mypage-react-typescript/static/media/rest.7f4aa61758f6f8c32db30dec99f9f8c8.svg",
+    "static/media/linkedin.svg": "/mypage-react-typescript/static/media/linkedin.72cc8251aa9f908e2dcfd749b997d7b3.svg",
+    "static/media/github.svg": "/mypage-react-typescript/static/media/github.d65d9df7684c631ac584a930480aab6f.svg",
+    "static/media/python.svg": "/mypage-react-typescript/static/media/python.b7464bdd1a8bce9d53d402dd54b76fa3.svg",
     "index.html": "/mypage-react-typescript/index.html",
-    "static/media/email.svg": "/mypage-react-typescript/static/media/email.c0a70fa215f68b36da1caf3c0828ef6e.svg",
-    "static/media/html.svg": "/mypage-react-typescript/static/media/html.bb522a77e0fb4dbaca2f1a28d2e9ed1f.svg",
+    "static/media/email.svg": "/mypage-react-typescript/static/media/email.778440b6b6fff2ac47ed5ba53a761cae.svg",
+    "static/media/html.svg": "/mypage-react-typescript/static/media/html.a99c7345e11ceb176614bb7decdba402.svg",
     "main.c5a30726.css.map": "/mypage-react-typescript/static/css/main.c5a30726.css.map",
-    "main.bb224351.js.map": "/mypage-react-typescript/static/js/main.bb224351.js.map",
+    "main.bd6bc8b6.js.map": "/mypage-react-typescript/static/js/main.bd6bc8b6.js.map",
     "787.aeca62f9.chunk.js.map": "/mypage-react-typescript/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5a30726.css",
-    "static/js/main.bb224351.js"
+    "static/js/main.bd6bc8b6.js"
   ]
 }
