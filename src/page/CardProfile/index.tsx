@@ -59,15 +59,15 @@ const CardProfile = ({ refCard, ...rest }: ICard) => {
       icon: RestIcon,
     },
     {
-      name: "Python básico",
+      name: "Python",
       icon: PythonIcon,
     },
     {
-      name: "Django básico",
+      name: "Django",
       icon: PythonIcon,
     },
     {
-      name: "Django Rest Básico",
+      name: "Django Rest Framework",
       icon: PythonIcon,
     },
   ];
