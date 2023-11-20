@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mypage-react-typescript/static/css/main.c5a30726.css",
-    "main.js": "/mypage-react-typescript/static/js/main.bd6bc8b6.js",
+    "main.js": "/mypage-react-typescript/static/js/main.539c5b84.js",
     "static/js/787.aeca62f9.chunk.js": "/mypage-react-typescript/static/js/787.aeca62f9.chunk.js",
     "static/media/perfil.jpg": "/mypage-react-typescript/static/media/perfil.4da869c7135b9be20784.jpg",
     "static/media/react.svg": "/mypage-react-typescript/static/media/react.57cead48f96b6e2e8b97dd1a6d14bc4d.svg",
@@ -14,12 +14,13 @@
     "index.html": "/mypage-react-typescript/index.html",
     "static/media/email.svg": "/mypage-react-typescript/static/media/email.778440b6b6fff2ac47ed5ba53a761cae.svg",
     "static/media/html.svg": "/mypage-react-typescript/static/media/html.a99c7345e11ceb176614bb7decdba402.svg",
+    "static/media/angular.svg": "/mypage-react-typescript/static/media/angular.bc946071fa0ae5a982df7c3302f1d684.svg",
     "main.c5a30726.css.map": "/mypage-react-typescript/static/css/main.c5a30726.css.map",
-    "main.bd6bc8b6.js.map": "/mypage-react-typescript/static/js/main.bd6bc8b6.js.map",
+    "main.539c5b84.js.map": "/mypage-react-typescript/static/js/main.539c5b84.js.map",
     "787.aeca62f9.chunk.js.map": "/mypage-react-typescript/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5a30726.css",
-    "static/js/main.bd6bc8b6.js"
+    "static/js/main.539c5b84.js"
   ]
 }
