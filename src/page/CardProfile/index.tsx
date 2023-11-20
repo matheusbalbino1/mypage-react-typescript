@@ -5,6 +5,7 @@ import ReactIcon from "../../assets/icons/react.svg";
 import TsIcon from "../../assets/icons/typescript.svg";
 import RestIcon from "../../assets/icons/rest.svg";
 import PythonIcon from "../../assets/icons/python.svg";
+import AngularIcon from "../../assets/icons/angular.svg";
 import {
   Card,
   ContainerHeader,
@@ -69,6 +70,10 @@ const CardProfile = ({ refCard, ...rest }: ICard) => {
     {
       name: "Django Rest Framework",
       icon: PythonIcon,
+    },
+    {
+      name: "Angular",
+      icon: AngularIcon,
     },
   ];
 
